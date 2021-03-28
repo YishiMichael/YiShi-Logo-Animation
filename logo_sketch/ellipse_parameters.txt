@@ -1,0 +1,11 @@
+Inner ellipse
+cx="7.949" cy="7.886" rx="6.61" ry="6.9" theta="-25"
+points:
+(9.91, 1.41) (46.9deg)
+(14.49, 9.4) (323.1deg)
+
+Outer ellipse
+cx="7.949" cy="7.886" rx="7.61" ry="7.28" theta="-25"
+points:
+(15.16, 9.84) (318.6deg)
+(10.69, 0.96) (44.7deg)

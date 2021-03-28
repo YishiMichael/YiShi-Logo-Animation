@@ -1,0 +1,34 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  margin: 0;
+  background: #000000;
+}
+
+#logo {
+  width: 40%;
+}
+
+#normal-stroke {
+  fill: #FFFFFF;
+  fill-opacity: 0;
+}
+
+#main-stroke {
+  fill: none;
+  stroke: #FFFFFF;
+}
+
+#main-stroke #stroke0 {
+  stroke-width: 1.5;
+  stroke-dasharray: 5.3;
+  stroke-dashoffset: 5.3;
+}
+
+#main-stroke #stroke1 {
+  stroke-width: 2.2;
+  stroke-dasharray: 56.8;
+  stroke-dashoffset: 56.8;
+}

@@ -1,0 +1,5 @@
+tex to dvi command
+xelatex -no-pdf -interaction=batchmode -halt-on-error -output-directory=D:\me\ManimKindergarten\YiShi\logo_sketch\plain_text plain_text.tex > nul
+
+dvi to svg command
+dvisvgm plain_text.xdv -n -v 0 -o plain_text_by_dvisvgm.svg > nul
