@@ -1,4 +1,4 @@
-# YiShi-Logo-Animation
+# Yishi-Logo-Animation
 
 *A tiny logotype design*
 
@@ -18,5 +18,5 @@ Copyright (c) 2021-present Michael W, released under the MIT license.
 
 Great thanks to those who have inspired me more or less during the production of this repository.
 
-[@SVG-Edit](https://github.com/SVG-Edit/svgedit)
+[@SVG-Edit](https://github.com/SVG-Edit/svgedit)  
 [@oooooohmygosh](https://space.bilibili.com/38053181/video)
